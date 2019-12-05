@@ -1,5 +1,5 @@
 <?php
-/*function conecta_mysql(){
+function conecta_mysql(){
 	$host = "mysql669.umbler.com";
 	$usuario = "anaclara";
 	$senha = "senha147";
@@ -9,8 +9,8 @@
 	mysqli_set_charset($conexao, "utf8");
 
 	return $conexao;
-}*/
-function conecta_mysql(){
+}
+/*function conecta_mysql(){
 	$host = "localhost";
 	$usuario = "root";
 	$senha = "root";
@@ -20,6 +20,6 @@ function conecta_mysql(){
 	mysqli_set_charset($conexao, "utf8");
 
 	return $conexao;
-}
+}*/
 
 ?>
